@@ -1,8 +1,27 @@
-# Sapienza NLP 2021 Coursework - WiC, ABSA, and WSD
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Sapienza%20NLP%202021%20Coursework&fontAlign=50&fontAlignY=40&color=0:0f172a,100:1d4ed8&fontColor=ffffff&desc=WiC%20%C2%B7%20ABSA%20%C2%B7%20WSD&descAlign=50&descAlignY=62" alt="Sapienza NLP 2021 Coursework banner" />
+</p>
+
+<p align="center">
+  <img alt="Course NLP Sapienza" src="https://img.shields.io/badge/Course-NLP%20%40%20Sapienza-1d4ed8?style=for-the-badge" />
+  <img alt="Homework Projects 3" src="https://img.shields.io/badge/Homework%20Projects-3-0f766e?style=for-the-badge" />
+  <img alt="Core Framework PyTorch" src="https://img.shields.io/badge/Core%20Framework-PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img alt="Academic Year 2020 2021" src="https://img.shields.io/badge/Academic%20Year-2020--2021-6d28d9?style=for-the-badge" />
+</p>
 
 Three assignments from the **Natural Language Processing** course at Sapienza University of Rome (A.Y. 2020-2021), instructed by **Roberto Navigli**. This repository contains implementations for **Words in Context (WiC)**, **Aspect-Based Sentiment Analysis (ABSA)**, and **Word Sense Disambiguation (WSD)** combined with WiC, using neural models and knowledge-graph enhancements.
 
 **Course**: [NLP @ Sapienza (Navigli)](http://naviglinlp.blogspot.com/)
+
+## Quick navigation
+
+- [Overview](#overview)
+- [Project 1 - Words in Context (WiC) - HW1](#project-1---words-in-context-wic---hw1)
+- [Project 2 - Aspect-Based Sentiment Analysis (ABSA) - HW2](#project-2---aspect-based-sentiment-analysis-absa---hw2)
+- [Project 3 - WiC + WSD (graph-based over WordNet) - HW3](#project-3---wic--wsd-graph-based-over-wordnet---hw3)
+- [Datasets and evaluation](#datasets-and-evaluation)
+- [High-level architecture (Mermaid)](#high-level-architecture-mermaid)
+- [References](#references)
 
 ---
 
