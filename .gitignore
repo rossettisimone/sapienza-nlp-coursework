@@ -1,7 +1,4 @@
 .cursor
-
-# Large / binary files (not pushed; use LFS or another host if needed)
-*.ckpt
-*.pt
-**/logs/*.stdout
-**/logs/*.stderr
+.token
+*.stdout
+*.stderr
