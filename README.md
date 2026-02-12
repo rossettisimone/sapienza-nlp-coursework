@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Sapienza%20NLP%202021%20Coursework&fontAlign=50&fontAlignY=40&color=0:0f172a,100:1d4ed8&fontColor=ffffff&desc=WiC%20%C2%B7%20ABSA%20%C2%B7%20WSD&descAlign=50&descAlignY=62" alt="Sapienza NLP 2021 Coursework banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Sapienza%20NLP%202021%20Coursework&fontSize=44&fontAlign=50&fontAlignY=40&color=0:0f172a,100:1d4ed8&fontColor=ffffff&desc=WiC%20%C2%B7%20ABSA%20%C2%B7%20WSD&descSize=20&descAlign=50&descAlignY=62" alt="Sapienza NLP 2021 Coursework banner" />
 </p>
 
 <p align="center">
